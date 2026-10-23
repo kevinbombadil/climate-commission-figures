@@ -1,4 +1,4 @@
-library(yaml12)
+library(yaml)
 library(shiny)
 library(crosstalk)
 library(bslib)
