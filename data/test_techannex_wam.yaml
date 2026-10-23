@@ -1,4 +1,4 @@
-xlpath: "./data/ERM2026-figures-and-data.xlsx"
+xlpath: "./ERM2026-figures-and-data.xlsx"
 Server_method: get_dataset_loop
 first_col_name: Type
 tabs:
