@@ -1,6 +1,6 @@
-
+library(crosstalk)
 library(shiny)
-library(tibble)
+library(tidyverse)
 library(dplyr)
 library(purrr)   # functions for functions and vectors
 library(plotly) # 1. Load the plotly library
