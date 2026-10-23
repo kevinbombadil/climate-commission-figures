@@ -9,7 +9,7 @@ library(stringr)
 library(tidyr)
 library(cellranger)
 
-YAML_PATH <- './data/test_techannex_wam.yaml'
+YAML_PATH <- '../data/test_techannex_wam.yaml'
 YAML_PATH_MOBILE <- YAML_PATH
 
 #  given the rules and a tabname return just that tab
