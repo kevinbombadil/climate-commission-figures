@@ -1,6 +1,6 @@
 library(yaml)
 library(shiny)
-library(crosstalk)
+#library(crosstalk)
 library(bslib)
 source('./R/get_dataset_loop.R')
 
