@@ -1,5 +1,4 @@
 
-library(crosstalk)
 library(shiny)
 library(tibble)
 library(dplyr)
